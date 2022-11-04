@@ -1,0 +1,22 @@
+{
+  "name": "@zoodogood/util-primitives",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://zoodogood.github.io/util-primitives/docs/public",
+  "scripts": {
+    "test": "node index",
+    "docs-build": "retype build  --output ./docs/public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zoodogood/util-primitives"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "retype": "^0.2.0"
+  }
+}
