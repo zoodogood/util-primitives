@@ -1,6 +1,6 @@
 input: .
 output: .retype
-url: https://zoodogood.github.io/util-primitives/public/
+url: ./public/
 branding:
   title: util-primitives
   label: Docs
