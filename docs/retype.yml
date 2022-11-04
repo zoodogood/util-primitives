@@ -1,0 +1,13 @@
+input: .
+output: .retype
+url: # Add your website address here
+branding:
+  title: util-primitives
+  label: Docs
+links:
+- text: Github
+  link: https://github.com/zoodogood/util-primitives
+- text: NPM
+  link: https://www.npmjs.com/package/@zoodogood/util-primitives
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
