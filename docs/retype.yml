@@ -1,6 +1,7 @@
 input: .
-output: .retype
-url: ./public/
+output: ./public
+url: zoodogood.github.io/util-primitives/public/
+colors: "#fcba03"
 branding:
   title: util-primitives
   label: Docs

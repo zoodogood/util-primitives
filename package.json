@@ -7,7 +7,7 @@
   "homepage": "https://zoodogood.github.io/util-primitives/docs/public",
   "scripts": {
     "test": "node index",
-    "docs-build": "retype build  --output ./docs/public"
+    "docs-build": "cd ./docs & retype build  --output ./public"
   },
   "repository": {
     "type": "git",
