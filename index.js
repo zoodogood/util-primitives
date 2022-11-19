@@ -20,6 +20,6 @@ function ending(quantity = 0, base, multiple, alone, double, options = {}) {
 };
 
 
-export default {
+export {
   ending
 }
